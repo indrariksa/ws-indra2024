@@ -3,7 +3,7 @@ package controller
 import (
 	"github.com/aiteung/musik"
 	"github.com/gofiber/fiber/v2"
-	cek "github.com/indrariksa/cobapakcage"
+	cek "github.com/indrariksa/cobapakcage/module"
 )
 
 func Homepage(c *fiber.Ctx) error {

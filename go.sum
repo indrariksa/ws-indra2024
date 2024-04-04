@@ -59,6 +59,8 @@ github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/ad
 github.com/hashicorp/go-uuid v1.0.2/go.mod h1:6SBZvOh/SIDV7/2o3Jml5SYk/TvGqwFJ/bN7x4byOro=
 github.com/indrariksa/cobapakcage v0.0.3 h1:p7t1tTTNMbVvoDGeOlDHbvgxNp6h5+rGKH9+X6+6uWg=
 github.com/indrariksa/cobapakcage v0.0.3/go.mod h1:O5dUaETcGRpf/IgpU120oBvAfJw4W6Lg+VwUPE2CmfU=
+github.com/indrariksa/cobapakcage v0.0.4 h1:+VFSswU2KixtLhzp4ot4wlGaB6Sj81hBKRH70qAfeAw=
+github.com/indrariksa/cobapakcage v0.0.4/go.mod h1:O5dUaETcGRpf/IgpU120oBvAfJw4W6Lg+VwUPE2CmfU=
 github.com/jcmturner/aescts/v2 v2.0.0/go.mod h1:AiaICIRyfYg35RUkr8yESTqvSy7csK90qZ5xfvvsoNs=
 github.com/jcmturner/dnsutils/v2 v2.0.0/go.mod h1:b0TnjGOvI/n42bZa+hmXL+kFJZsFT7G4t3HTlQ184QM=
 github.com/jcmturner/gofork v1.0.0/go.mod h1:MK8+TM0La+2rjBD4jE12Kj1pCCxK7d2LK/UM3ncEo0o=

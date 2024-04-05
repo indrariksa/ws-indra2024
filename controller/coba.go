@@ -4,6 +4,7 @@ import (
 	"github.com/aiteung/musik"
 	"github.com/gofiber/fiber/v2"
 	cek "github.com/indrariksa/cobapakcage/module"
+	"github.com/indrariksa/ws-indra2024/config"
 )
 
 func Homepage(c *fiber.Ctx) error {
@@ -12,6 +13,6 @@ func Homepage(c *fiber.Ctx) error {
 }
 
 func GetPresensi(c *fiber.Ctx) error {
-	ps := cek.GetAllPresensi()
+	ps := cek.GetAllPresensi(config.Ulbimongoconn, "presensi")
 	return c.JSON(ps)
 }
